@@ -4,6 +4,6 @@ draft = true
 title = 'My Personal Space'
 +++
 
-## Wecome to my Personal Space
+## Welcome!
 
 This is my personal web space.
