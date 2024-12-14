@@ -1,4 +1,14 @@
 baseURL = 'https://anunair.in/'
 languageCode = 'en-us'
-title = 'My Personal Space'
+title = 'Anu Nair'
 theme = 'ananke'
+
+[menus]
+  [[menus.main]]
+    name = 'Home'
+    pageRef = '/'
+    weight = 10
+  [[menus.main]]
+    name = 'About'
+    url = 'https://www.linkedin.com/in/anusreekumarnair/'
+    weight = 20
