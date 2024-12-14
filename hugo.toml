@@ -12,3 +12,7 @@ theme = 'ananke'
     name = 'About'
     url = 'https://www.linkedin.com/in/anusreekumarnair/'
     weight = 20
+  [[menus.main]]
+    name = 'Posts'
+    pageRef = '/posts'
+    weight = 30
